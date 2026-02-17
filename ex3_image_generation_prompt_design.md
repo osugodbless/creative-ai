@@ -16,6 +16,6 @@ Aliens invading earth from a bird's eye view in Van Gogh style with long exposur
 **Response 2:**
 ![Image](response2.png)
 
-Comparison:
+**Comparison:**
 
 With the vague prompt (prompt 1), the model decided what to show, however, with the descriptive prompt (prompt 2), the model provided an image containing much more detail based on what was requested in the prompt which made the output much more specific.
